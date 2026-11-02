@@ -1,7 +1,5 @@
-# Inicializar la opción seleccionada
 opcion = 0
 
-# Repetir el menú hasta que el usuario elija salir
 while opcion != 4:
     # Mostrar el menú
     print("Menú de operaciones:")
